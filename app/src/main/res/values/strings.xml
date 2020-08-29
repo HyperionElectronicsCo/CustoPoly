@@ -12,10 +12,10 @@
     <string name="title_activity_property_view">PropertyViewActivity</string>
     <string name="logoDescription">The logo of our team</string>
 
-    //ThemeList
+    
     <string name="themesAndSkinsXML_filepath">themesAndSkins.xml</string>
 
-    //GameModel
+    
     <string formatted="false" name="ingame_notWantToBuy">Player %s did not want to purchase %s</string>
     <string name="ingame_buyyesbutton">Yes</string>
     <string name="ingame_buynobutton">No</string>
@@ -36,21 +36,21 @@
     <string name="ingame_mortagege_title">Mortgage property?</string>
     <string name="ingame_mortagege_message">Are you sure you want to Mortgage/UnMortgage the property: %s?</string>
 
-    //MainActivity
+    
     <string name="playButtonText">Play</string>
     <string name="shopButtonText">Shop</string>
     <string name="themeButtonText">Customize</string>
     <string name="preGameTitleText">Select Players</string>
 
-    //PreGameActivity
+
     <string name="playPreGameButtonText">Play</string>
 
-    //GameMenuActivity
+    
     <string name="gameMenuTitleText">Play Custopoly</string>
     <string name="newGameButtonText">New Game</string>
     <string name="loadGameButtonText">Load Game</string>
 
-    //SaveGameHandler
+    
     <string name="generic_game_name">GameFile</string>
 
     <!-- TODO: Remove or change this placeholder text -->
@@ -62,7 +62,7 @@
     <string name="dummy_button">Dummy Button</string>
     <string name="dummy_content">DUMMY\nCONTENT</string>
 
-    //ShopActivity
+    
     <string name="shop_wanttobuy_message">Do you want to buy this theme?</string>
     <string name="shop_wanttobuy_title">Buy a theme</string>
     <string name="shop_yes">YES</string>
